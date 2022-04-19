@@ -590,11 +590,11 @@ table {
     align-items: center;
 }
 .credit-card__information img {
-padding-top: 1%;
+/* padding-top: 1%; */
 }
 .number__credit-card {
-    padding-top: 1%;
-    padding-left: 10.3px;
+    /* padding-top: 1%; */
+    padding-left: 13px;
     font-family: 'Georgia';
     font-style: normal;
     font-weight: 400;
@@ -640,7 +640,7 @@ padding-top: 1%;
 }
 
 .contacts__box {
-    padding-top: 6%;
+    padding-top: 5.5%;
     max-width: 298px;
     height: 234px;
 }
@@ -656,7 +656,7 @@ padding-top: 1%;
 }
 
 .footer-contacts__list {
-    padding-top: 14%;
+    padding-top: 13%;
 }
 
 .footer__contacts-email {
@@ -704,7 +704,7 @@ padding-top: 1%;
 /* .phone__number {
 } */
 .footer-column__locations {
-    padding-top: 1.5%;
+    padding-top: 1.2%;
     max-width: 322px;
     height: 234px;
 }
